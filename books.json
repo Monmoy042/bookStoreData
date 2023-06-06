@@ -1,0 +1,268 @@
+[
+  {
+    "id": "0",
+    "title": "How to Win Friends and influence people",
+    "description": "How to Win Friends and Influence People by Dale Carnegie is a self-help classic that reads as a life manual. The core idea is that you can change other people’s behavior simply by changing your own. It teaches you the principles to better understand people, become a more likable person, improve relationships, win others over, and influence behavior through leadership.",
+    "author": "Dale Carnegie",
+    "publisher": "Maanu Graphics Publishers",
+    "pages": 208,
+    "price": 288,
+    "rating": 4.5,
+    "reviewCount": 27,
+    "country": "India",
+    "language": "English",
+    "category": "Self-help and meditation",
+    "review": [
+      {
+        "id": "0",
+        "name": "Shahriar Ahmed Sajid",
+        "comment": "Best book that I read ever!",
+        "date": "14 Jul 2021"
+      },
+      {
+        "id": "1",
+        "name": "Nur Farhan Shariar Pranto",
+        "comment": "This is a book for those who wants to succeed in life and win over friends!",
+        "date": "8 Apr 2020"
+      },
+      {
+        "id": "2",
+        "name": "Sourav Laskar",
+        "comment": "The book is so interesting and also effective for personal improvement!",
+        "date": "8 Jun 2021"
+      },
+      {
+        "id": "3",
+        "name": "Muhammad Ibrahim",
+        "comment": "Its really awesome!",
+        "date": "22 Oct 2020"
+      },
+      {
+        "id": "4",
+        "name": "Fahmida Khan",
+        "comment": "Such an informative book.",
+        "date": "06 Feb 202"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Body Language",
+    "description": "The Definitive Book of Body Language – by Barbara Pease & Allan Pease. The Definitive Book of Body Language reveals that studies have shown that only 7% of our communication is verbal (what we say). 38% is vocal (how we say it) and the remaining 55% is non-verbal (what we do with our body language and our gestures).",
+    "author": "Allan Pease",
+    "publisher": "Maanu Graphics Publishers",
+    "pages": 190,
+    "price": 290,
+    "rating": 3.3,
+    "reviewCount": 6,
+    "country": "India",
+    "language": "English",
+    "category": "Career Development",
+    "review": [
+      {
+        "id": "0",
+        "name": "Sajidul Islam",
+        "comment": "Very hard to understand",
+        "date": "29 Oct 2021"
+      },
+      {
+        "id": "1",
+        "name": "Joy Sarker",
+        "comment": "The book is really good for any kinds of readers!",
+        "date": "23 Dec 2022"
+      },
+      {
+        "id": "2",
+        "name": "Sany",
+        "comment": "One of the best books",
+        "date": "05 Nov 2019"
+      },
+      {
+        "id": "3",
+        "name": "Md Sefati",
+        "comment": "Page quality wa good.",
+        "date": "04 Jul 2018"
+      },
+      {
+        "id": "4",
+        "name": "Asma Tasmim",
+        "comment": "Good Book",
+        "date": "31 Aug 2021"
+      },
+      {
+        "id": "5",
+        "name": "Md. Khaled Hasan",
+        "comment": "Best book that I evr read on Body Language.",
+        "date": "10 Oct 2019"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "The Understanding Of Free Trade Agreements",
+    "description": "This book delves into an objective assessment of the SAFTA from fresh perspectives. For that, the author explored various provisions of NAFTA and GATT. The author firmly believes that the SAARC may play an instrumental role in ensuring an effective South Asian intra-trade system.",
+    "author": "Md. Neyamul Islam",
+    "publisher": "The University Press Limited(UPL)",
+    "pages": 218,
+    "price": 520,
+    "rating": 0,
+    "reviewCount": 1,
+    "country": "Bangladesh",
+    "language": "English",
+    "category": "Business, Investment and Economics",
+    "review": [
+      {
+        "id": "0",
+        "name": "Avijit Datta",
+        "comment": "Very informative book!",
+        "date": "14 Jul 2021"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Pride and Prejudice",
+    "description": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry.",
+    "author": "Jane Austen",
+    "publisher": "Penguin Books",
+    "pages": 352,
+    "price": 358,
+    "rating": 4,
+    "reviewCount": 1,
+    "country": "India",
+    "language": "English",
+    "category": "Foreign Book",
+    "review": [
+      {
+        "id": "0",
+        "name": "Saidul Islam",
+        "comment": "Tough but very authentic love story!",
+        "date": "29 Jan 2019"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Fire and Fury : Inside The Trump White House",
+    "description": "Fire and Fury: Inside the Trump White House is a 2018 book by journalist Michael Wolff which according to Wolff, details the behavior of U.S. President Donald Trump, the staff of his 2016 presidential campaign, and the White House staff. The title refers to a quote by Trump about the conflict with North Korea.",
+    "author": "Michael Wolff",
+    "publisher": "Little Brown Publishers",
+    "pages": 322,
+    "price": 1258,
+    "rating": 4.5,
+    "reviewCount": 6,
+    "country": "India",
+    "language": "English",
+    "category": "Essay, Articles & Research",
+    "review": [
+      {
+        "id": "0",
+        "name": "Sayeed Mohammad",
+        "comment": "Since Donald Trump was sworn in as the 45th President of the United States, the country―and the world―has witnessed a stormy, outrageous, and absolutely mesmerizing presidential term that reflects the volatility and fierceness of the man elected Commander",
+        "date": "24 Oct 2019"
+      },
+      {
+        "id": "1",
+        "name": "Parvez Ahmed",
+        "comment": "Good Book",
+        "date": "22 Dec 2019"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "The Serpents Shadow",
+    "description": "The Chaos Snake, Apophis, is back! Carter and Sadie Kane journey around the world to try and keep him in check, but they fail. Now, the Kanes must somehow destroy Apophis before he swallows the entire world. However, they’re almost alone in this battle. The magicians of the House of Life are busy squabbling amongst themselves and the gods are divided. The only hope the Kanes still have is an old spell that can turn the serpent’s shadow against it. However, that magic has been long lost. To find it, they need to trust the crazy ghost of a dead magician. The Kane Chronicles spins towards its end in this climactic finale.",
+    "author": "Rick Riordan",
+    "publisher": "Penguin Books Ltd",
+    "pages": 406,
+    "price": 718,
+    "rating": 5,
+    "reviewCount": 1,
+    "country": "India",
+    "language": "English",
+    "category": "Novel",
+    "review": [
+      {
+        "id": "0",
+        "name": "Rasel Ahmed",
+        "comment": "Great book indeed!",
+        "date": "16 Sep 2022"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Ikigai",
+    "description": "The Ikigai book introduces you to various topics related to the art of living, such as the blue zones, longevity, logotherapy, flow, yoga, tai chi, and resilience. It defines what Ikigai is and its rules. The book says that living a long and full life is under your control to an extent.",
+    "author": "Hector Garcia & Francesc Miralles",
+    "publisher": "Random House UK",
+    "pages": 208,
+    "price": 990,
+    "rating": 4.5,
+    "reviewCount": 8,
+    "country": "India",
+    "language": "English",
+    "category": "Self-help and meditation",
+    "review": [
+      {
+        "id": "0",
+        "name": "Arif Faisal",
+        "comment": "Informative book and as well as interesting also🧡",
+        "date": "10 Sep 2022"
+      },
+      {
+        "id": "1",
+        "name": "Emon Rahman",
+        "comment": "Till now interesting 🌸",
+        "date": "14 Feb 2022"
+      },
+      {
+        "id": "2",
+        "name": "SK. SALAHUDDIN",
+        "comment": "Japanese people are creative.",
+        "date": "24 Feb 2022"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Rich Dad Poor Dad",
+    "description": "The Ikigai book introduces you to various topics related to the art of living, such as the blue zones, longevity, logotherapy, flow, yoga, tai chi, and resilience. It defines what Ikigai is and its rules. The book says that living a long and full life is under your control to an extent.",
+    "author": "Robert T. Kiyosaki",
+    "publisher": "Plata Publishing (Abroad)",
+    "pages": 351,
+    "price": 1078,
+    "rating": 4.5,
+    "reviewCount": 4,
+    "country": "India",
+    "language": "English",
+    "category": "Business, Investment and Economics",
+    "review": [
+      {
+        "id": "0",
+        "name": "Mitul Rahman Ontor",
+        "comment": "Happy Reading!",
+        "date": "28 Mar 2019"
+      },
+      {
+        "id": "1",
+        "name": "maruf morshed",
+        "comment": "একটা বই মানুষের চিন্তাভাবনাকে কতটুকু প্রভাবিত করতে পারে, তার প্রমান হতে পারে যদি আপনি এই বই, আর তার পাশাপাশি হতাশ হবেন না(ইসলামী বই), পাশাপাশি রাখেন। একজন বলবে কিভাবে টাকা কামাতে হয়, আর আরেকজন বলবে কিভাবে অল্পে তুষ্টিতে টাকা বিলিয়ে সুখী থাকা যায়। যে যেভাবে সুখ পায় আর কি।",
+        "date": "16 Oct 2018"
+      },
+      {
+        "id": "2",
+        "name": "Shahriar",
+        "comment": "A book which surely needed for the persons want to change their future as well as the country. The book clearly elongated the perspective of economic conditions by describing the cash flow diagrams of practical life. This book is not just about money.",
+        "date": "14 May 2018"
+      },
+      {
+        "id": "3",
+        "name": "Tawfiq Ahmed",
+        "comment": "A unique perspective on wealth and financial mindset. Lots of good and pertinent information. A must read book.",
+        "date": "01 Dec 2018"
+      }
+    ]
+  }
+]
